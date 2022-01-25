@@ -1,0 +1,17 @@
+leftnav:
+- identifier: a27a0d0c-9f0c-70f6-e1f3-022b3a5eeaa2
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: bf540226-54a9-3232-8238-9b813b3f74aa
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 65cedc19-2905-1232-d698-2986ec76f345
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: 898de8cf-f8f2-4b12-30d7-419ba4d710ab
+  name: Video Lectures
+  url: /video_galleries/video-lectures/
+  weight: 40
